@@ -1,7 +1,8 @@
 # Classifying Images of Clothing
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://www.python.org/) 
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras)](https://keras.io/)
 
 This is a tutorial project refactored from the Udacity course: [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187).
 
@@ -14,7 +15,7 @@ The objective of this project was to create and train my first neural network th
 
 The dataset provides 70,000 low-resolution images of clothing articles within 10 categories (shirts, sandels, pants etc.). Each sample is a 24x24 pixel image, as shown below.
 
-<img src="https://user-images.githubusercontent.com/22490250/88834639-25f5e300-d1a2-11ea-83fc-f16bbf4cfa37.png" alt="Fashion MNIST samples" width="600" height="500" title="Fashion-MNIST samples (by Zalando, MIT License).">
+<p align="center"><img src="https://user-images.githubusercontent.com/22490250/88834639-25f5e300-d1a2-11ea-83fc-f16bbf4cfa37.png" alt="Fashion MNIST samples" width="600" height="500" title="Fashion-MNIST samples (by Zalando, MIT License)."></br>Fashion-MNIST samples (by Zalando, MIT License).</p>
 
 
 
